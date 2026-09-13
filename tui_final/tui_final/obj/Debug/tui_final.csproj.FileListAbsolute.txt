@@ -1,0 +1,13 @@
+C:\Users\nicox\Documents\SharpDevelop Projects\tui_final\tui_final\bin\Debug\tui_final.exe.config
+C:\Users\nicox\Documents\SharpDevelop Projects\tui_final\tui_final\bin\Debug\tui_final.exe
+C:\Users\nicox\Documents\SharpDevelop Projects\tui_final\tui_final\bin\Debug\tui_final.pdb
+C:\Users\nicox\Documents\SharpDevelop Projects\tui_final\tui_final\obj\Debug\tui_final.csprojResolveAssemblyReference.cache
+C:\Users\nicox\Documents\SharpDevelop Projects\tui_final\tui_final\obj\Debug\tui_final.exe
+C:\Users\nicox\Documents\SharpDevelop Projects\tui_final\tui_final\obj\Debug\tui_final.pdb
+C:\Users\nicox\Desktop\tui_final\tui_final\bin\Debug\tui_final.exe.config
+C:\Users\nicox\Desktop\tui_final\tui_final\bin\Debug\tui_final.exe
+C:\Users\nicox\Desktop\tui_final\tui_final\bin\Debug\tui_final.pdb
+C:\Users\nicox\Desktop\tui_final\tui_final\obj\Debug\tui_final.csproj.AssemblyReference.cache
+C:\Users\nicox\Desktop\tui_final\tui_final\obj\Debug\tui_final.csproj.CoreCompileInputs.cache
+C:\Users\nicox\Desktop\tui_final\tui_final\obj\Debug\tui_final.exe
+C:\Users\nicox\Desktop\tui_final\tui_final\obj\Debug\tui_final.pdb
